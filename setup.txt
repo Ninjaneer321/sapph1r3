@@ -1,0 +1,285 @@
+STARG3N SCRIPTPACK
+  you are now the proud owner of a starg3n scriptpack! this user manual will
+  guide you through setting up the scripts.
+
+SETTING UP VHACK, GROW, AND WEAKEN
+  vhack lets you hack servers without connecting to them, vgrow and vweak
+  lets you do grow and weak remotley as well.
+  you can set this up like so:
+  > alias vhack=vhack.js
+  > alias vgrow=vgrow.js
+  > alias vweak=vweak.js
+
+SETTING UP DAEMON.js
+  daemon is basically an auto money generator. Daemon depends on:
+  - helpers.js
+  - go.js
+  - stockmaster.js
+  You CAN always just "run daemon.js" but it is quicker + better to do
+  > alias start=daemon.js --silent-misfires true
+
+SETTING UP SERVERMONITOR.js
+  servermonitor lets you see important data about servers you can access.
+  this is helpful for hacking them. You can set this up by running
+  > alias monitor=servermonitor.js
+  running servermonitor now is as easy as 
+  > monitor [servername]
+
+ALAINBRYDEN.js - WHAT IS IT?
+  ALAINBRYDEN, or AB as it will be mentioned here is an installer for alainbryden's pack of scripts, which daemon is in.
+  these scripts are more advanced, so you can visit his github: https://github.com/alainbryden/bitburner-scripts/tree/main
+
+
+THE END
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
+https://github.com/starg3n/bitburner-scripts/
