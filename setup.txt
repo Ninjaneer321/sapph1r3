@@ -1,5 +1,13 @@
-STARG3N SCRIPTPACK
-  you are now the proud owner of a starg3n scriptpack! this user manual will
+
+░██████╗░█████╗░██████╗░██████╗░██╗░░██╗░░███╗░░██████╗░██████╗░
+██╔════╝██╔══██╗██╔══██╗██╔══██╗██║░░██║░████║░░██╔══██╗╚════██╗
+╚█████╗░███████║██████╔╝██████╔╝███████║██╔██║░░██████╔╝░█████╔╝
+░╚═══██╗██╔══██║██╔═══╝░██╔═══╝░██╔══██║╚═╝██║░░██╔══██╗░╚═══██╗
+██████╔╝██║░░██║██║░░░░░██║░░░░░██║░░██║███████╗██║░░██║██████╔╝
+╚═════╝░╚═╝░░╚═╝╚═╝░░░░░╚═╝░░░░░╚═╝░░╚═╝╚══════╝╚═╝░░╚═╝╚═════╝░
+A Bitburner scriptpack by starg3n
+
+  you are now the proud owner of sapphir3! this user manual will
   guide you through setting up the scripts.
 
 SETTING UP VHACK, GROW, AND WEAKEN
