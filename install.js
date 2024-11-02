@@ -1,7 +1,7 @@
 let options;
 const argsSchema = [
     ['github', 'starg3n'],
-    ['repository', 'bitburner-scripts'],
+    ['repository', 'sapph1r3'],
     ['branch', 'main'],
     ['download', []], // By default, all supported files in the repository will be downloaded. Override with just a subset of files here
     ['new-file', []], // If a repository listing fails, only files returned by ns.ls() will be downloaded. You can add additional files to seek out here.
@@ -40,7 +40,18 @@ export async function main(ns) {
         else
             ns.tprint(`WARNING: "${fullLocalFilePath}" was not updated. (Currently running, or not located at ${remoteFilePath}?)`)
     }
-    ns.tprint(`helpful script download complete.`);
+    ns.tprint("░██████╗░█████╗░██████╗░██████╗░██╗░░██╗░░███╗░░██████╗░██████╗░");
+    ns.tprint("██╔════╝██╔══██╗██╔══██╗██╔══██╗██║░░██║░████║░░██╔══██╗╚════██╗");
+    ns.tprint("╚█████╗░███████║██████╔╝██████╔╝███████║██╔██║░░██████╔╝░█████╔╝");
+    ns.tprint("░╚═══██╗██╔══██║██╔═══╝░██╔═══╝░██╔══██║╚═╝██║░░██╔══██╗░╚═══██╗");
+    ns.tprint("██████╔╝██║░░██║██║░░░░░██║░░░░░██║░░██║███████╗██║░░██║██████╔╝");
+    ns.tprint("╚═════╝░╚═╝░░╚═╝╚═╝░░░░░╚═╝░░░░░╚═╝░░╚═╝╚══════╝╚═╝░░╚═╝╚═════╝░");
+    ns.tprint("            a bitburner code installer by starg3n               ");
+  
+    ns.tprint("░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░");
+    ns.tprint("       BEFORE YOU START, MAKE SURE TO DO THE FOLLOWING          ");
+    ns.tprint("                   *** NANO SETUP.TXT ***");
+    ns.tprint("░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░");
     // Remove any temp files / scripts from the prior version
     ns.run(pathJoin(options.subfolder, `cleanup.js`));
 }
