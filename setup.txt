@@ -1,4 +1,3 @@
-
 ░██████╗░█████╗░██████╗░██████╗░██╗░░██╗░░███╗░░██████╗░██████╗░
 ██╔════╝██╔══██╗██╔══██╗██╔══██╗██║░░██║░████║░░██╔══██╗╚════██╗
 ╚█████╗░███████║██████╔╝██████╔╝███████║██╔██║░░██████╔╝░█████╔╝
@@ -7,8 +6,9 @@
 ╚═════╝░╚═╝░░╚═╝╚═╝░░░░░╚═╝░░░░░╚═╝░░╚═╝╚══════╝╚═╝░░╚═╝╚═════╝░
 A Bitburner scriptpack by starg3n
 
-  you are now the proud owner of sapph1r3! this user manual will
-  guide you through setting up the scripts.
+  you are now a proud owner of the sapph1r3! scriptpack!
+  this user manual will guide you through setting up the scripts, 
+  to integrate them into your workflow.
 
 SETTING UP VHACK, GROW, AND WEAKEN
   vhack lets you hack servers without connecting to them, vgrow and vweak
@@ -17,6 +17,10 @@ SETTING UP VHACK, GROW, AND WEAKEN
   > alias vhack=vhack.js
   > alias vgrow=vgrow.js
   > alias vweak=vweak.js
+  the syntax for each of these is as follows
+  > vhack [servername]
+  > vgrow [servername]
+  > vweak [servername]
 
 SETTING UP DAEMON.js
   daemon is basically an auto money generator. Daemon depends on:
@@ -41,14 +45,17 @@ ALL ABOUT BITFETCH.js
   and other stats, such as a SAPPH1RE installation check.
   there is some minor docs inside of the file, 
   > nano bitfetch.js 
-  and you can modify the ascii, or the modules.
+  and you can modify the ascii, or the modules as you wish, although
+  it may not be easy, as it was made without thinking about modding.
 
 ALAINBRYDEN.js - WHAT IS IT?
-  ALAINBRYDEN, or AB as it will be mentioned here is an installer for alainbryden's pack of scripts, which daemon is in.
-  these scripts are more advanced, so you can visit his github: https://github.com/alainbryden/bitburner-scripts/tree/main
+  ALAINBRYDEN, or AB as it will be mentioned here is an installer 
+  for alainbryden's pack of scripts, which daemon is in.
+  these scripts are more advanced, so you can visit his github: 
+  https://github.com/alainbryden/bitburner-scripts/tree/main
 
 
 THE END
-https://github.com/starg3n/sapph1r3/
-https://github.com/starg3n/sapph1r3/
-https://github.com/starg3n/sapph1r3/
+https://github.com/starg3n/sapph1r3/tree/main
+https://github.com/starg3n/sapph1r3/tree/main
+https://github.com/starg3n/sapph1r3/tree/main
