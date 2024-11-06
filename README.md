@@ -4,7 +4,8 @@
  ░╚═══██╗██╔══██║██╔═══╝░██╔═══╝░██╔══██║╚═╝██║░░██╔══██╗░╚═══██╗
  ██████╔╝██║░░██║██║░░░░░██║░░░░░██║░░██║███████╗██║░░██║██████╔╝
  ╚═════╝░╚═╝░░╚═╝╚═╝░░░░░╚═╝░░░░░╚═╝░░╚═╝╚══════╝╚═╝░░╚═╝╚═════╝░
-              a bitburner code installer by starg3n               
+              a bitburner code installer by starg3n
+              
  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
         TO INSTALL, OPEN [INSTALL.JS](https://github.com/starg3n/sapph1r3/blob/main/install.js) AND COPY
         AND PASTE IT INTO A NEW BITBURNER FILE, THEN RUN
