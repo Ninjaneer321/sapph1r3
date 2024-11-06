@@ -7,7 +7,7 @@
  * SECTIONS
  *  you can change the modules that exist.
  *  some are static text variables, such as OS, VERSION, and SAPPH1R3,
- *  but MONEY is ns.getServerMoneyAvailable("home")
+ *  but MONEY is ns.getServerMoneyAvailable("home"), a nonstatic variable!
  */
 export async function main(ns) {
   let os = "  OS: BITBURNER";
@@ -65,7 +65,7 @@ export async function main(ns) {
     ns.tprint(bar1)
     ns.tprint(bar1)
   } 
-    // normal fetch if sapph1r3 install.js is not installed
+  else {    // normal fetch if sapph1r3 install.js is not installed
     ns.tprint(one1, os)
     ns.tprint(two2, bio)
     ns.tprint(thr3, sapfalse)
@@ -89,4 +89,5 @@ export async function main(ns) {
     ns.tprint(ttw2)
     ns.tprint(bar1)
     ns.tprint(bar1)
+  }
 }
