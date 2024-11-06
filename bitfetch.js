@@ -1,5 +1,8 @@
 /** @param {NS} ns */
+
+
 /** BITFETCH: THE CUSTOMIZABLE INFOFETCH FOR BITBURNER
+ * VERSION 1.2.0
  * custom script by starg3n/appak
  * this script is part of the sapph1r3 scriptpack
  * 
@@ -17,13 +20,13 @@ export async function main(ns) {
   let saptrue = "  SAPPH1R3 INSTALLED = TRUE";
   let sapfalse= "  SAPPH1R3 INSTALLED = FALSE"
   let homemoney = ns.getServerMoneyAvailable("home"); // returns: 1000
-  let wmoney = "  MONEY: "
+  let maxRam = ns.getServerMaxRam("home");
 
   let one1="@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@";
   let two2="@@@@@@@@@@@@@@@@@@@@==@@@@@@@@@@@@@@@@@@@@";
   let thr3="@@@@@@@@@@@%*%@@==@@==@@+=@@%*%@@@@@@@@@@@";
   let for4="@@@@@@@*=@@*=*@@==@@==@@+=@@#=*@@=+@@@@@@@  MONEY: "; // this is dumb
-  let fiv5="@@@==@@==@@*=*@@==@@==@@+=@@#=*@@==@@==@@@";
+  let fiv5="@@@==@@==@@*=*@@==@@==@@+=@@#=*@@==@@==@@@  RAM: ";
   let six6="@@@==@@==@@*=*@@==@+===@+=@@#=*@@==@@==@@@";
   let sev7="@@@==@@==@@*=*@@==========@@#=*@@==@@==@@@";
   let ate8="@@@==@@==@@*=*@@==========@@#=*@@==@@==@@@";
@@ -47,7 +50,7 @@ export async function main(ns) {
     ns.tprint(two2, bio)
     ns.tprint(thr3, saptrue)
     ns.tprint(for4, homemoney)
-    ns.tprint(fiv5)
+    ns.tprint(fiv5, maxRam," GB")
     ns.tprint(six6)
     ns.tprint(sev7)
     ns.tprint(ate8)
