@@ -1,5 +1,7 @@
 /** @param {NS} ns */
 /** BITFETCH: THE CUSTOMIZABLE INFOFETCH FOR BITBURNER
+ * custom script by starg3n/appak
+ * this script is part of the sapph1r3 scriptpack
  * 
  * DOCS:
  * ASCII ART
@@ -7,7 +9,7 @@
  * SECTIONS
  *  you can change the modules that exist.
  *  some are static text variables, such as OS, VERSION, and SAPPH1R3,
- *  but MONEY is ns.getServerMoneyAvailable("home"), a nonstatic variable!
+ *  but MONEY is ns.getServerMoneyAvailable("home")
  */
 export async function main(ns) {
   let os = "  OS: BITBURNER";
