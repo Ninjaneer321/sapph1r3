@@ -11,7 +11,7 @@ you are now a proud owner of the sapph1r3! scriptpack! \
 this user manual will guide you through setting up the scripts,  \
 to integrate them into your workflow. 
 
-## SETTING UP VHACK, GROW, AND WEAKEN \
+## SETTING UP VHACK, GROW, AND WEAKEN 
   vhack lets you hack servers without connecting to them, vgrow and vweak \
   lets you do grow and weak remotley as well. \ 
   you can set this up like so: 
