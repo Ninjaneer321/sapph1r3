@@ -12,11 +12,11 @@
 > This script installer is not perfect, and is always being worked on, so run install.js often, as to update scripts.
 
 # Installing
-to install sapph1r3, [go to the install.js file](https://github.com/starg3n/sapph1r3/blob/main/install.js) and copy and paste it into a new bitburner script of the same name,
-```
-> nano install.js
-```
+to install sapph1r3, [go to the install.js file](https://github.com/starg3n/sapph1r3/blob/main/install.js) 
+Copy and paste this code into a new bitburner script **of the same name**[^1]
 then run it and follow the in-game instructions.
+
+[^1]: This is important! some scripts require the install.js script to function, and sapph1r3 will install install.js as well, overwriting your install script.
 
 # Included Scripts:
  - alainbryden.js: installer pack
