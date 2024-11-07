@@ -31,3 +31,4 @@ SAPPH1R3 INCLUDES:
 ```
 
 # [GO TO INSTALL.JS](https://github.com/starg3n/sapph1r3/blob/main/install.js)
+### [SCRIPT EX](https://github.com/starg3n/sapph1r3/tree/main/examples)
