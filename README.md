@@ -23,9 +23,9 @@ then run it and follow the in-game instructions.
  - bitfetch.js: the bitburner neofetch demake
  - cowmutter: the bitburner cowsay demake
  - daemon.js: money maker!
-  - go.js: helper for daemon.js
-  - helpers.js: helper for daemon.js
-  - stockmaster.js: helper for daemon.js
+   - go.js: helper for daemon.js
+   - helpers.js: helper for daemon.js
+   - stockmaster.js: helper for daemon.js
  - install.js: install + upgrader script for sapph1r3
  - scan.js: a better scan script!
  - servermonitor.js: a way to monitor servers from home
