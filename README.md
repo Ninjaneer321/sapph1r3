@@ -34,4 +34,6 @@ then run it and follow the in-game instructions.
  - vweak.js: weaken a server from home
  - vhack.js: hack a server from home
 
+# Read The Manual!
+although you *can* run all scripts out of the box, the [sapph1r3 manual](https://github.com/starg3n/sapph1r3/blob/main/manual.md) has some helpful setup for these scripts.
 
