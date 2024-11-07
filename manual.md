@@ -4,7 +4,7 @@
 ░╚═══██╗██╔══██║██╔═══╝░██╔═══╝░██╔══██║╚═╝██║░░██╔══██╗░╚═══██╗ \
 ██████╔╝██║░░██║██║░░░░░██║░░░░░██║░░██║███████╗██║░░██║██████╔╝ \
 ╚═════╝░╚═╝░░╚═╝╚═╝░░░░░╚═╝░░░░░╚═╝░░╚═╝╚══════╝╚═╝░░╚═╝╚═════╝░ \
-## A Bitburner scriptpack by starg3n
+              A Bitburner scriptpack by starg3n
 
 # Intro
 you are now a proud owner of the sapph1r3! scriptpack! \
