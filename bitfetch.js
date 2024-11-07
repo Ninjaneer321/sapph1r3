@@ -1,6 +1,6 @@
 /** @param {NS} ns */
 /** BITFETCH: THE CUSTOMIZABLE INFOFETCH FOR BITBURNER
- * version 1.4.0
+ * version 1.4.1
  * custom script by starg3n/appak
  * this script is part of the sapph1r3 scriptpack
  * 
@@ -75,9 +75,9 @@ export async function main(ns) {
     ns.tprint(one1, os)
     ns.tprint(two2, bio)
     ns.tprint(thr3, sapfalse)
-    ns.tprint(for4, homemoney)
-    ns.tprint(fiv5, maxRam, " GB")
-    ns.tprint(six6)
+    ns.tprint(for4, "  MONEY: ", homemoney)
+    ns.tprint(fiv5, "  RAM: ", maxRam," GB")
+    ns.tprint(six6, "  HACK LVL: ", hacklvl)
     ns.tprint(sev7)
     ns.tprint(ate8)
     ns.tprint(nin9)
