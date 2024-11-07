@@ -6,13 +6,19 @@
  ██████╔╝██║░░██║██║░░░░░██║░░░░░██║░░██║███████╗██║░░██║██████╔╝
  ╚═════╝░╚═╝░░╚═╝╚═╝░░░░░╚═╝░░░░░╚═╝░░╚═╝╚══════╝╚═╝░░╚═╝╚═════╝░
              a bitburner code installer by starg3n               
- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-        TO INSTALL, OPEN INSTALL.JS, COPY AND PASTE
-        TO A NEW BITBURNER SCRIPT NAMED INSTALL.JS
-                        THEN RUN IT
- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+```
 
-SAPPH1R3 INCLUDES:
+> [!WARNING]
+> This script installer is not perfect, and is always being worked on, so run install.js often, as to update scripts.
+
+# Installing
+to install sapph1r3, [go to the install.js file](https://github.com/starg3n/sapph1r3/blob/main/install.js) and copy and paste it into a new bitburner script of the same name,
+```
+> nano install.js
+```
+then run it and follow the in-game instructions.
+
+# Included Scripts:
  - alainbryden.js: installer pack
  - bitfetch.js: the bitburner neofetch demake
  - cowmutter: the bitburner cowsay demake
@@ -27,8 +33,6 @@ SAPPH1R3 INCLUDES:
  - vgrow.js: grow a server from home
  - vweak.js: weaken a server from home
  - vhack.js: hack a server from home
-
-```
 
 # [GO TO INSTALL.JS](https://github.com/starg3n/sapph1r3/blob/main/install.js)
 ### [SCRIPT EX](https://github.com/starg3n/sapph1r3/tree/main/examples)
