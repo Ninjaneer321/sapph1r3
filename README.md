@@ -15,6 +15,7 @@
 SAPPH1R3 INCLUDES:
  - alainbryden.js: installer pack
  - bitfetch.js: the bitburner neofetch demake
+ - cowmutter: the bitburner cowsay demake
  - daemon.js: money maker!
   - go.js: helper for daemon.js
   - helpers.js: helper for daemon.js
@@ -29,4 +30,4 @@ SAPPH1R3 INCLUDES:
 
 ```
 
-[GO TO INSTALL.JS](https://github.com/starg3n/sapph1r3/blob/main/install.js)
+# [GO TO INSTALL.JS](https://github.com/starg3n/sapph1r3/blob/main/install.js)
