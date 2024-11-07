@@ -1,8 +1,6 @@
 /** @param {NS} ns */
-
-
 /** BITFETCH: THE CUSTOMIZABLE INFOFETCH FOR BITBURNER
- * VERSION 1.2.0
+ * version 1.3.0
  * custom script by starg3n/appak
  * this script is part of the sapph1r3 scriptpack
  * 
@@ -16,17 +14,19 @@
  */
 export async function main(ns) {
   let os = "  OS: BITBURNER";
-  let bio = "  VERSION: v.2.6.2";
+  let bio = "  VERSION: v.2.6.2"; // has to be changed every bitburner version
   let saptrue = "  SAPPH1R3 INSTALLED = TRUE";
   let sapfalse= "  SAPPH1R3 INSTALLED = FALSE"
-  let homemoney = ns.getServerMoneyAvailable("home"); // returns: 1000
-  let maxRam = ns.getServerMaxRam("home");
+  let homemoney = ns.getServerMoneyAvailable("home"); // returns: home money, no commas or nuttin
+  let maxRam = ns.getServerMaxRam("home"); // max ram in gb
 
+
+  // the way it's drawing the ascii is so fucking scuffed but it works...
   let one1="@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@";
   let two2="@@@@@@@@@@@@@@@@@@@@==@@@@@@@@@@@@@@@@@@@@";
   let thr3="@@@@@@@@@@@%*%@@==@@==@@+=@@%*%@@@@@@@@@@@";
   let for4="@@@@@@@*=@@*=*@@==@@==@@+=@@#=*@@=+@@@@@@@  MONEY: "; // this is dumb
-  let fiv5="@@@==@@==@@*=*@@==@@==@@+=@@#=*@@==@@==@@@  RAM: ";
+  let fiv5="@@@==@@==@@*=*@@==@@==@@+=@@#=*@@==@@==@@@  RAM: "; // this too but i don't know enough js to fix it
   let six6="@@@==@@==@@*=*@@==@+===@+=@@#=*@@==@@==@@@";
   let sev7="@@@==@@==@@*=*@@==========@@#=*@@==@@==@@@";
   let ate8="@@@==@@==@@*=*@@==========@@#=*@@==@@==@@@";
@@ -45,7 +45,7 @@ export async function main(ns) {
   let ttw2="@@@@@@@@@==*@==@@@@@==@@@@@==@#==@@@@@@@@@";
   let bar1="@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@";
 
-  if (ns.fileExists("install.js", "home")) {
+  if (ns.fileExists("install.js", "home")) { // test for if you're cool ;)
     ns.tprint(one1, os)
     ns.tprint(two2, bio)
     ns.tprint(thr3, saptrue)
@@ -75,7 +75,7 @@ export async function main(ns) {
     ns.tprint(two2, bio)
     ns.tprint(thr3, sapfalse)
     ns.tprint(for4, homemoney)
-    ns.tprint(fiv5)
+    ns.tprint(fiv5, maxRam, " GB")
     ns.tprint(six6)
     ns.tprint(sev7)
     ns.tprint(ate8)
