@@ -9,7 +9,7 @@
 ```
 
 > [!WARNING]
-> This script installer is not perfect, and is always being worked on, so run install.js often, as to update scripts.
+> Sapph1r3 is still in development! Run install.js **OFTEN**!
 
 # Installing
 to install sapph1r3, [go to the install.js file](https://github.com/starg3n/sapph1r3/blob/main/install.js) 
