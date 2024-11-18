@@ -49,9 +49,12 @@ export async function main(ns) {
     ns.tprint("            a bitburner code installer by starg3n               ");
   
     ns.tprint("░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░");
-    ns.tprint("       BEFORE YOU START, MAKE SURE TO DO THE FOLLOWING          ");
+    ns.tprint("              BEFORE YOU START, MAKE SURE TO RTFM:          ");
     ns.tprint("                   *** NANO SETUP.TXT ***");
     ns.tprint("░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░");
+    ns.tprint("           https://github.com/starg3n/sapph1r3");
+    ns.tprint("░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░");
+
     // Remove any temp files / scripts from the prior version
     ns.run(pathJoin(options.subfolder, `cleanup.js`));
 }
